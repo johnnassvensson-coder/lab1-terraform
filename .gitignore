@@ -1,0 +1,9 @@
+# Terraform lokala filer (Dessa ska INTE till GitHub)
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.backup
+
+# Loggfiler
+crash.log
+*.log
